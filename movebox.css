@@ -1,0 +1,40 @@
+.body{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.showbox{
+    height: 500px;
+    overflow: auto;
+    background-color: #333;
+    text-align: center;
+}
+
+.show{
+	margin-top:100px;
+	color:white;
+}
+
+.box{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.move1 {
+    height: 200px;
+	width:300px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 1px;
+	padding:5px;
+}
+
+
+.py-5{
+    background-color: #333;
+    color: #fff;
+    margin-top: 200px;
+}
